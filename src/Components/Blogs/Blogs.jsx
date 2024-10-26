@@ -12,8 +12,8 @@ const Blogs = () => {
     },[])
 
     return (
-        <div>
-            <h2 className='text-3xl font-extrabold bg-slate-700 text-red-500'>Knowledge cafe length : {blogs.length}</h2>
+        <div className="w-2/3 border border-blue-900">
+            <h2>blogs</h2>
         </div>
     );
 };
