@@ -1,0 +1,53 @@
+[
+    {
+      "id": "001",
+      "cover": "https://i.ibb.co.com/dQj0KJK/travel.jpg",
+      "author_img": "https://example.com/images/author1.jpg",
+      "author_name": "Alex Johnson",
+      "reading_time": 5,
+      "cover_title": "Exploring the Future of Technology",
+      "hashtag": ["tech", "future"],
+      "posted_date": "2023-08-15"
+    },
+    {
+      "id": "002",
+      "cover": "https://i.ibb.co.com/ysqJ62W/fb.jpg",
+      "author_img": "https://example.com/images/author2.jpg",
+      "author_name": "Maria Gomez",
+      "reading_time": 7,
+      "cover_title": "A Guide to Sustainable Living",
+      "hashtag": ["sustainability", "eco"],
+      "posted_date": "2023-08-21"
+    },
+    {
+      "id": "003",
+      "cover": "https://i.ibb.co.com/5M0rkzp/laptop.jpg",
+      "author_img": "https://example.com/images/author3.jpg",
+      "author_name": "James Lee",
+      "reading_time": 4,
+      "cover_title": "Top 10 Travel Destinations for 2023",
+      "hashtag": ["travel", "adventure"],
+      "posted_date": "2023-08-30"
+    },
+    {
+      "id": "004",
+      "cover": "https://i.ibb.co.com/t8mRT8b/blog.jpg",
+      "author_img": "https://example.com/images/author4.jpg",
+      "author_name": "Sophie Chen",
+      "reading_time": 6,
+      "cover_title": "Mastering the Art of Cooking",
+      "hashtag": ["cooking", "food"],
+      "posted_date": "2023-09-05"
+    },
+    {
+      "id": "005",
+      "cover": "https://i.ibb.co.com/7YqM969/sea.jpg",
+      "author_img": "https://example.com/images/author5.jpg",
+      "author_name": "David Brown",
+      "reading_time": 8,
+      "cover_title": "Investing for Beginners",
+      "hashtag": ["finance", "investing"],
+      "posted_date": "2023-09-12"
+    }
+  ]
+  
